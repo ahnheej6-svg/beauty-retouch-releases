@@ -1,0 +1,78 @@
+{
+ "version": "1.0.12",
+ "notes": "4K 원본을 확대해서 쓴 장면에서도 얼굴 잡티·주근깨가 지워져요 (얼굴 크기에 맞춰 더 자세히 계산)",
+ "files": {
+  "mac": [
+   {
+    "path": "BeautyRetouch.plugin/Contents/Info.plist",
+    "sha256": "9ef563dcd6a3d9d8ef31aceb810b60a04be0f446211fb12872eac899bf34c607",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/beauty-retouch-releases/dist/v1.0.12/mac-BeautyRetouch.plugin__Contents__Info.plist",
+    "url2": "https://github.com/ahnheej6-svg/beauty-retouch-releases/releases/download/v1.0.12/mac-BeautyRetouch.plugin__Contents__Info.plist"
+   },
+   {
+    "path": "BeautyRetouch.plugin/Contents/PkgInfo",
+    "sha256": "e13c5afd5f73acd972f0bc6472b86b8b0adf50bb82ed19a4680978469d45675a",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/beauty-retouch-releases/dist/v1.0.12/mac-BeautyRetouch.plugin__Contents__PkgInfo",
+    "url2": "https://github.com/ahnheej6-svg/beauty-retouch-releases/releases/download/v1.0.12/mac-BeautyRetouch.plugin__Contents__PkgInfo"
+   },
+   {
+    "path": "BeautyRetouch.plugin/Contents/_CodeSignature/CodeResources",
+    "sha256": "3e787575e2b18431e67b7fcc8969c837ec9458836f0240bd61f76418382259a9",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/beauty-retouch-releases/dist/v1.0.12/mac-BeautyRetouch.plugin__Contents___CodeSignature__CodeResources",
+    "url2": "https://github.com/ahnheej6-svg/beauty-retouch-releases/releases/download/v1.0.12/mac-BeautyRetouch.plugin__Contents___CodeSignature__CodeResources"
+   },
+   {
+    "path": "BeautyRetouch.plugin/Contents/MacOS/BeautyRetouch",
+    "sha256": "54bfa79c5793e1ff44414f25b0b548b17bb5880b3a13924f7c50b892e3030346",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/beauty-retouch-releases/dist/v1.0.12/mac-BeautyRetouch.plugin__Contents__MacOS__BeautyRetouch",
+    "url2": "https://github.com/ahnheej6-svg/beauty-retouch-releases/releases/download/v1.0.12/mac-BeautyRetouch.plugin__Contents__MacOS__BeautyRetouch"
+   },
+   {
+    "path": "BeautyRetouch.plugin/Contents/Resources/BeautyRetouch.rsrc",
+    "sha256": "e3311458ba812cce5acb2941e4e93e4181e233c378a972343876f95b2449ea23",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/beauty-retouch-releases/dist/v1.0.12/mac-BeautyRetouch.plugin__Contents__Resources__BeautyRetouch.rsrc",
+    "url2": "https://github.com/ahnheej6-svg/beauty-retouch-releases/releases/download/v1.0.12/mac-BeautyRetouch.plugin__Contents__Resources__BeautyRetouch.rsrc"
+   }
+  ],
+  "win": [
+   {
+    "path": "BeautyRetouch.aex",
+    "sha256": "134454a2962ca18f82c88da9822282b489239e478cd77b23e6e43b9f53cb60b7",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/beauty-retouch-releases/dist/v1.0.12/win-BeautyRetouch.aex",
+    "url2": "https://github.com/ahnheej6-svg/beauty-retouch-releases/releases/download/v1.0.12/win-BeautyRetouch.aex"
+   },
+   {
+    "path": "BeautyRetouch_files/br_onnxruntime.dll",
+    "sha256": "cb2fa518b18356617f6f9f460c012501da2819ec7e5c1d80bd8f5de20492db0c",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/beauty-retouch-releases/dist/v1.0.12/win-BeautyRetouch_files__br_onnxruntime.dll",
+    "url2": "https://github.com/ahnheej6-svg/beauty-retouch-releases/releases/download/v1.0.12/win-BeautyRetouch_files__br_onnxruntime.dll"
+   },
+   {
+    "path": "BeautyRetouch_files/face_detector.onnx",
+    "sha256": "337018ff923830cd15999279550d4e00c553e5c21b11d78372a4691da9c2e916",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/beauty-retouch-releases/dist/v1.0.12/win-BeautyRetouch_files__face_detector.onnx",
+    "url2": "https://github.com/ahnheej6-svg/beauty-retouch-releases/releases/download/v1.0.12/win-BeautyRetouch_files__face_detector.onnx"
+   },
+   {
+    "path": "BeautyRetouch_files/face_landmarks_detector.onnx",
+    "sha256": "5198bb92049eba1bbdf5c547ac484af22c4112ced8f4e1c70a25ae626bf9a6c3",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/beauty-retouch-releases/dist/v1.0.12/win-BeautyRetouch_files__face_landmarks_detector.onnx",
+    "url2": "https://github.com/ahnheej6-svg/beauty-retouch-releases/releases/download/v1.0.12/win-BeautyRetouch_files__face_landmarks_detector.onnx"
+   },
+   {
+    "path": "BeautyRetouch_files/selfie_segmenter.onnx",
+    "sha256": "19981e58d5ea4457a9cbbdc5122c8f1ade613aa64782e08dd5318193174402f5",
+    "url": "https://raw.githubusercontent.com/ahnheej6-svg/beauty-retouch-releases/dist/v1.0.12/win-BeautyRetouch_files__selfie_segmenter.onnx",
+    "url2": "https://github.com/ahnheej6-svg/beauty-retouch-releases/releases/download/v1.0.12/win-BeautyRetouch_files__selfie_segmenter.onnx"
+   }
+  ]
+ },
+ "panel": {
+  "url": "https://raw.githubusercontent.com/ahnheej6-svg/beauty-retouch-releases/dist/v1.0.12/BeautyPanel-1.0.12.ccx",
+  "url2": "https://github.com/ahnheej6-svg/beauty-retouch-releases/releases/download/v1.0.12/BeautyPanel-1.0.12.ccx"
+ },
+ "install": {
+  "mac": "https://raw.githubusercontent.com/ahnheej6-svg/beauty-retouch-releases/dist/v1.0.12/BeautyRetouch-mac-1.0.12.pkg",
+  "win": "https://raw.githubusercontent.com/ahnheej6-svg/beauty-retouch-releases/dist/v1.0.12/BeautyRetouch-win-setup-1.0.12.exe"
+ }
+}
